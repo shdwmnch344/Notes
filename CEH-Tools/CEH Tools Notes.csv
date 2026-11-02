@@ -1,0 +1,3 @@
+﻿Tool,CEH Domain,Category,Difficulty,Key Commands,Purpose
+Nmap,"Reconnaissance, Scanning/Enumeration"," Network Scanner / Security Scanner / Enumeration Tool",Easy,nmap -sV -sC -O <target>,"Active network discovery, port scanning, service version detection, and operating system identification."
+NetCat,Scanning/Enumeration,Network Utility / TCP-UDP Tool,Easy,nc -lvnp PORT,"Establish TCP/UDP connections, test network services/ports, transfer data, and create simple client/server connections."
